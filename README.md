@@ -1,4 +1,4 @@
-# Word
+# W
 aroundoft is Pretty boy
 
 public static void main(String[] args) {
